@@ -46,7 +46,7 @@ This database contains 76 attributes, but all published experiments refer to usi
  Value 0: < 50% diameter narrowing (No heart disease);
  Value 1: > 50% diameter narrowing (Heart disease)
 
-# Analysis and utput
+# Analysis and Output
 1. Descriptive Statistics of variables considered important for the study
 
    - Split  between quantitative and qualitative, bar charts, correlation heatmap describing and summarizing various data points and their relation to other data points so that any patterns that exit may become clear.
